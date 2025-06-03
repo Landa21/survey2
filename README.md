@@ -4,7 +4,7 @@
 A simple survey application built with PHP, HTML, and MySQL.
 
 ## 📁 Structure
--`survey.php`(main folder)-embedded intrenally into survey.php
+-`survey.php`(main folder)-embedded internally into survey.php
 - `index.html` – Main page
 - `form.php` – Handles form submission
 - `db.php` – MySQL connection script
